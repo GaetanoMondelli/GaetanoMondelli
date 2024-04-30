@@ -1,4 +1,4 @@
-<h2> <img src="https://media.giphy.com/media/DdpmhAQpQZzwHSrQ3f/giphy.gif" width="30"> Hello there 👋 <img src="https://media.giphy.com/media/DdpmhAQpQZzwHSrQ3f/giphy.gif" width="30"> </h2>
+<h2> <img src="https://media.giphy.com/media/DdpmhAQpQZzwHSrQ3f/giphy.gif" width="30"> Hello wor*dl* 👋 <img src="https://media.giphy.com/media/DdpmhAQpQZzwHSrQ3f/giphy.gif" width="30"> </h2>
 
 [![Linkedin Badge](https://img.shields.io/badge/-gaetanomondelli-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jlim/)](https://www.linkedin.com/in/gaetano-mondelli/)
 [![Website Badge](https://img.shields.io/badge/-Portfolio-black?style=flat&logo=Google-Chrome&logoColor=white&link=https://gaetanomondelli.github.io)](https://gaetanomondelli.github.io)
