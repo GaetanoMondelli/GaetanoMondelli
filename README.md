@@ -10,11 +10,22 @@
 I am Gaetano, a software engineer from Italy based in London.
 I am a software engineer and a specialist in legal technology. When not coding I spend time filling endless whiteboards with new ideas for crypto projects.
 </p>
-
 <h3>Blockchain Repo List</h3>
+
 <details>
 <summary>
-<img src="https://giphy.com/media/ftdjgXb8lyumAbxA65/giphy.gif" width=30><a href="https://ethglobal.com/showcase/skaffoldmaci-zkosios-2no6q">ZK Scaffold for MACI </a> 
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN250azV4OXpsbmNuZmlyZ21mdXU0OHlwd3gzY3gzZ2J1NWZwNm82YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ftdjgXb8lyumAbxA65/giphy.gif" width=40><a href="https://github.com/ksavul/zk-bootcamp-final-project">ZK Scaffold for MACI </a> 
+</summary>
+🥇 ENCODE ZK BOOTCAMP GRADUATION PROJECT 2024
+
+This project involves the creation of a vulnerability checker and a security proxy contract architecture utilizing Noir. The system will analyze the bytecode of deployed contracts to determine their vulnerability status. Furthermore, it will require contracts to implement a security interface, which certifies that they have been audited. 
+
+</h2>
+</details>
+
+<details>
+<summary>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN250azV4OXpsbmNuZmlyZ21mdXU0OHlwd3gzY3gzZ2J1NWZwNm82YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ftdjgXb8lyumAbxA65/giphy.gif" width=40><a href="https://ethglobal.com/showcase/skaffoldmaci-zkosios-2no6q">ZK Scaffold for MACI </a> 
 </summary>
 🥈 ETH LONDON {ETHEREUM FOUNDATION TRACK } BEST USE OF MACI
 
