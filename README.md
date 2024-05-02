@@ -12,7 +12,7 @@ I am a software engineer and a specialist in legal technology. When not coding I
 
 <details>
 <summary>
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExamFqeHl0eWw5MTY3eThtd25yZ2Jmd3ozejNvZW9odW5sNmIxank2dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/wp2rA9gXbKXo0KzTjD/giphy.gif" width=40><a href="https://github.com/ksavul/zk-bootcamp-final-project">ZK Scaffold for MACI </a> 
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExamFqeHl0eWw5MTY3eThtd25yZ2Jmd3ozejNvZW9odW5sNmIxank2dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/wp2rA9gXbKXo0KzTjD/giphy.gif" width=40><a href="https://github.com/ksavul/zk-bootcamp-final-project">ZK Bytecode verifier</a> 
 </summary>
 🥇 ENCODE ZK BOOTCAMP GRADUATION PROJECT 2024
 
@@ -50,7 +50,7 @@ Ethereum isn't just currency, it's the gold in our digital age. Tokens? They're 
 <summary> 
 <img src="https://media.giphy.com/media/lSn9axCWI6L9fSaezm/giphy.gif" width=45><a href="https://github.com/GaetanoMondelli/HackatonDegenChess"> Degenchess </a> 
 </summary>
-🥇 IMMUTABLEX HACKHATON WINNER PROJECT 2021
+🥇 IMMUTABLEX HACKATHON WINNER PROJECT 2021
 
 
 Chess reimagined in the crypto world. Each piece is an NFT from your Ethereum collection, battling it out on a gas-free, ImmutableX-powered board. Buy and wrap your NFTs, set a winning prize, and challenge opponents. Captured pieces change wallets in real time, and the victor claims the prize.
