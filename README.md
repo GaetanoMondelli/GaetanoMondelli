@@ -5,8 +5,6 @@
 [![Twitter Badge](https://img.shields.io/badge/@GaetanoMondelli-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/gaetano-mondelli)](https://twitter.com/gaetano-mondelli)
 [![Instagram Badge](https://img.shields.io/badge/-@gaetano.mondelli-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/gaetano-mondelli)](https://instagram.com/gaetano-mondelli)
 
-
-
 I am Gaetano, a software engineer from Italy based in London.
 I am a software engineer and a specialist in legal technology. When not coding I spend time filling endless whiteboards with new ideas for crypto projects.
 </p>
@@ -14,7 +12,7 @@ I am a software engineer and a specialist in legal technology. When not coding I
 
 <details>
 <summary>
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN250azV4OXpsbmNuZmlyZ21mdXU0OHlwd3gzY3gzZ2J1NWZwNm82YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ftdjgXb8lyumAbxA65/giphy.gif" width=40><a href="https://github.com/ksavul/zk-bootcamp-final-project">ZK Scaffold for MACI </a> 
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExamFqeHl0eWw5MTY3eThtd25yZ2Jmd3ozejNvZW9odW5sNmIxank2dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/wp2rA9gXbKXo0KzTjD/giphy.gif" width=40><a href="https://github.com/ksavul/zk-bootcamp-final-project">ZK Scaffold for MACI </a> 
 </summary>
 🥇 ENCODE ZK BOOTCAMP GRADUATION PROJECT 2024
 
