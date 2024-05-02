@@ -9,8 +9,22 @@
 
 I am Gaetano, a software engineer from Italy based in London.
 I am a software engineer and a specialist in legal technology. When not coding I spend time filling endless whiteboards with new ideas for crypto projects.
+</p>
 
 <h3>Blockchain Repo List</h3>
+<details>
+<summary>
+<img src="https://giphy.com/media/ftdjgXb8lyumAbxA65/giphy.gif" width=30><a href="https://ethglobal.com/showcase/skaffoldmaci-zkosios-2no6q">ZK Scaffold for MACI </a> 
+</summary>
+🥈 ETH LONDON {ETHEREUM FOUNDATION TRACK } BEST USE OF MACI
+
+Implementation of a Scaffold-eth template project for getting started with [MACI](https://maci.pse.dev/) which is an architecture to make e-voting more secure
+and anti-collusion using ****Zero Knowledge Proofs**. The project include the UI to handle MACI wallet that used different types of encryption and signing to 
+make signatures easier to manage.
+</h2>
+</details>
+
+
 
 <details>
 <summary>
