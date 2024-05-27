@@ -5,8 +5,8 @@
 [![Twitter Badge](https://img.shields.io/badge/@GaetanoMondelli-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/gaetano-mondelli)](https://twitter.com/gaetano-mondelli)
 [![Instagram Badge](https://img.shields.io/badge/-@gaetano.mondelli-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/gaetano-mondelli)](https://instagram.com/gaetano-mondelli)
 
-I am Gaetano, a software engineer from Italy based in London.
-I am a software engineer and a specialist in legal technology. When not coding I spend time filling endless whiteboards with new ideas for crypto projects.
+I am Gaetano, a software engineer from Italy, now living in London. I work with blockchain technology and have a strong interest in legal tech. When I’m not coding, I like to come up with new ideas for crypto projects and often spend time filling whiteboards with my thoughts.
+
 </p>
 <h3>Blockchain Repo List</h3>
 
