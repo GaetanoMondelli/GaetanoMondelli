@@ -10,6 +10,19 @@ I am Gaetano, a software engineer from Italy, now living in London. I work with 
 </p>
 <h3>Blockchain Repo List</h3>
 
+cure price oracles and interoperability, XTF provides a transparent and reliable platform for diversified investment strategies.
+
+<details>
+<summary>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWttYjVobWJhOGs4a2xma3Z6czF2dmIybGxlY3JkOWM2cGlqNjFqZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/iJnRyVWKD503voliIS/giphy.gif" width=40><a href="https://github.com/GaetanoMondelli/XRPLEDGER-XTF"> XTF</a> 
+</summary>
+🥇🥇🥇🥇🥇  XTF 2024
+
+XTF is a multichain, decentralized protocol for creating and managing ETF-like solutions, enhancing accessibility and flexibility for all investors. By supporting various asset types, including NFTs and RWAs, XTF democratizes the investment process, allowing anyone to participate. Utilizing se
+
+</h2>
+</details>
+
 <details>
 <summary>
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExamFqeHl0eWw5MTY3eThtd25yZ2Jmd3ozejNvZW9odW5sNmIxank2dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/wp2rA9gXbKXo0KzTjD/giphy.gif" width=40><a href="https://github.com/ksavul/zk-bootcamp-final-project">ZK Bytecode verifier</a> 
