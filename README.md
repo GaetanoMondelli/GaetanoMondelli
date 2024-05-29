@@ -18,7 +18,7 @@ cure price oracles and interoperability, XTF provides a transparent and reliable
 </summary>
 🥇🥇🥇🥇🥇  XTF 2024
 
-XTF is a multichain, decentralized protocol for creating and managing ETF-like solutions, enhancing accessibility and flexibility for all investors. By supporting various asset types, including NFTs and RWAs, XTF democratizes the investment process, allowing anyone to participate. Utilizing se
+XTF is a multichain, decentralized protocol for creating and managing ETF-like solutions, enhancing accessibility and flexibility for all investors. By supporting various asset types, including NFTs and RWAs, XTF democratizes the investment process, allowing anyone to participate. Utilizing secure price oracles and interoperability, XTF provides a transparent and reliable platform for diversified investment strategies.
 
 </h2>
 </details>
