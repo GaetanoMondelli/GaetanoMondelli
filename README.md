@@ -57,20 +57,6 @@ make signatures easier to manage.
 Ethereum isn't just currency, it's the gold in our digital age. Tokens? They're not mere assets; they transform into sparkling gems in your unique NFT ring. Forge these elements together to create a piece of digital jewelry. If it doesn't quite match your style, simply melt it down and take the precious assets back!
 </h2>
 
-</details>
-
-<details>
-<summary> 
-<img src="https://media.giphy.com/media/lSn9axCWI6L9fSaezm/giphy.gif" width=45><a href="https://github.com/GaetanoMondelli/HackatonDegenChess"> Degenchess </a> 
-</summary>
-🥇 IMMUTABLEX HACKATHON WINNER PROJECT 2021
-
-
-Chess reimagined in the crypto world. Each piece is an NFT from your Ethereum collection, battling it out on a gas-free, ImmutableX-powered board. Buy and wrap your NFTs, set a winning prize, and challenge opponents. Captured pieces change wallets in real time, and the victor claims the prize.
-</h2>
-
-</details>
-
 
 ---
 
